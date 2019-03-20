@@ -1,5 +1,5 @@
 #bibbase_header a {
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 #bibbase_header i {
@@ -88,13 +88,17 @@ img.bibbase_icon:hover {
 }
 
 .bibbase.link {
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
 .bibbase_paper_content {
     font-size: smaller;
 }
 
-.bibbase_paper_content .a {
+.bibbase_paper_content a {
     text-decoration-color: darkorange;
+}
+
+.bibbase_group span {
+    text-decoration-color: rgb(255, 0, 0);
 }
