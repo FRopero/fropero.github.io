@@ -1,5 +1,5 @@
 #bibbase_header a {
-    /*text-decoration: none;*/
+    text-decoration: none;
 }
 
 #bibbase_header i {
@@ -10,7 +10,7 @@
 
 .bibbase_group {
     /* background-color: #D0D0E0; */
-    background-color: #D0D0E0;
+    background-color:#D0D0E0;
     font-style: italic;
     font-size: larger;
     text-shadow: 0px 0px 3px #FFFFFF;
@@ -88,17 +88,10 @@ img.bibbase_icon:hover {
 }
 
 .bibbase.link {
-    /*text-decoration: none;*/
+    text-decoration: none;
 }
 
 .bibbase_paper_content {
     font-size: smaller;
 }
 
-.bibbase_paper_content a {
-    text-decoration-color: darkorange;
-}
-
-.bibbase_group span {
-    text-decoration-color: rgb(255, 0, 0);
-}
