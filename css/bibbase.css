@@ -95,3 +95,6 @@ img.bibbase_icon:hover {
     font-size: smaller;
 }
 
+.bibbase_paper_content .a {
+    text-decoration-color: darkorange;
+}
