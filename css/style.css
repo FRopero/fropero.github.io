@@ -836,7 +836,7 @@ img.svg{
 .arlo_tm_skills_wrap{
 	background-color: #f6f7fd;
 	padding: 60px 0px;
-	margin-bottom: 100px;
+	margin-bottom: 55px;
 }
 .arlo_tm_skills_wrap .inner_wrap{display: flex;}
 .arlo_tm_skills_wrap .leftbox{
@@ -1038,7 +1038,7 @@ img.svg{
 	clear: both;
 	float: left;
 	background-color: #fff;
-	margin-bottom: 70px;
+	margin-bottom: 35px;
 	text-align: left;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1520,8 +1520,8 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 98px;
-	padding-bottom: 70px;
+	padding-top: 55px;
+	padding-bottom: 55px;
 	background-color: #f6f7fd;
 	margin-bottom: 50px;
 	
