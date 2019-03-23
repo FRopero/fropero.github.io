@@ -539,7 +539,7 @@ function arlo_tm_animate_text(){
 	var animateSpan			= jQuery('.arlo_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["PhD Student at UAH", "Researcher in AI"],
+			strings: ["PhD Student", "AI Researcher"],
 			loop: true,
 			startDelay: 2e3,
 			backDelay: 4e3
