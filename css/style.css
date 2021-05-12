@@ -404,8 +404,8 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_universal_box_wrap .overlay_image.hero{background-image: url(..//video/gif2.gif);}
-.arlo_tm_universal_box_wrap .overlay_color.hero{background-color: rgba(7,23,55,.6);}
+.arlo_tm_universal_box_wrap .overlay_image.hero{background-image: url(..//img/hero/DJI_0016.JPG);}
+.arlo_tm_universal_box_wrap .overlay_color.hero{background-color: rgba(7,23,55,.3);}
 .arlo_tm_universal_box_wrap .content.hero{height: 100vh;}
 .arlo_tm_hero_header_wrap .inner_content{
 	position: absolute;
@@ -877,12 +877,18 @@ img.svg{
 
 }
 
+.arlo_tm_skills_wrap .edubox .edu_book p{
+	padding: 0px 30px;
+}
+
 .arlo_tm_skills_wrap .edubox h6{
 	padding-top: 10px;
-
+	
 }
 
 .arlo_tm_skills_wrap .edubox .edu_study p strong{color: #041230;}
+
+.arlo_tm_skills_wrap .edu_book a strong{color: #a00808;}
 
 .arlo_tm_skills_wrap .edubox a{
 	text-decoration: none;
@@ -1471,7 +1477,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/hero/torres.JPG);}
+.arlo_tm_universal_box_wrap .overlay_image.testimonial{background-image: url(..//img/hero/DJI_0016.JPG);}
 .arlo_tm_universal_box_wrap .overlay_color.testimonial{background-color: rgba(7,23,55,.8);}
 .arlo_tm_universal_box_wrap .content.testimonial{padding: 82px 0px 90px 0px;}
 
@@ -2089,7 +2095,7 @@ color: #E3872D;
 .arlo_tm_universal_box_wrap.particle{
 	height: 100vh;
 	position: relative;
-	background-image: url(..//img/hero/torres.JPG);
+	background-image: url(..//img/hero/DJI_0016.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
